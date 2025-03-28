@@ -1,0 +1,12 @@
+# Example data file for anomaly detection
+SetupTitle    LZH_IdVg_B1505A_SiCOE
+MetaData    TestRecord.RecordTime    11/13/2024 16:43:59
+MetaData    TestRecord.TestTarget    EAG23-3-1-C2
+
+DataValue    Vgate    Vdrain    Igate    Idrain    gm    Id    gmMax    Vth    IdMax    Vd    Ileak
+DataValue    1    6    -0.0000000348    0.0551574        261.8465    -4.966090057    1103.148    6    0.001609622
+DataValue    0.8    6    -0.0000000381    0.0540804            -4.966090057        
+DataValue    0.6    6    -0.0000000409    0.0530635            -4.966090057        
+DataValue    0.4    6    -0.000000043    0.052008            -4.966090057        
+DataValue    0.2    6    -0.0000000455    0.0508822            -4.966090057        
+MetaData    TestRecord.EntryPoint    false
